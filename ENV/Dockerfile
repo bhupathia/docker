@@ -1,0 +1,5 @@
+FROM almalinux:8
+ENV NAME=BHUPATHI \
+    AGE=24 \
+    ADDRESS=TIRUPATI
+    
