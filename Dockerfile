@@ -1,1 +1,1 @@
-FROM nginx:8
+FROM centos:8
